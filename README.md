@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack projects<br>👯 I’m looking to collaborate with people on new challenges<br>🤝 I’m looking for help with finding a job<br>🌱 I’m currently learning Java, OOP, ASP.NET<br>💬 Ask me about anything
+🔭 I’m currently working on full-stack projects<br>👯 I’m looking to collaborate with people on new challenges<br>🤝 I’m looking for help with finding a job **(Full Stack, Frontend, Backend, Internships)**<br>🌱 I’m currently learning Java, OOP, ASP.NET<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/belal.abomoalsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/belalabomoailish) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/belal.abomoalsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/belalabomoailish) [![Email](https://img.shields.io/badge/Email%3A-belalabomoalsh%40gmail.com-black?logo=gmail&labelColor=blue)](mailto:belalabomoalsh@gmail.com) 
 
 # Summary
 I'm Belal, a recent graduate from a full stack web development bootcamp with a strong foundation in JavaScript web frameworks like react and express. While I have a background in pharmacy, my true passion lies in software development and learning new technologies. 
